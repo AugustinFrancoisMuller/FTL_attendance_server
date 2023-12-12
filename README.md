@@ -2,6 +2,7 @@
 
 FTL attendance server is the QRcode generation 
 
+(FTL: Faster Than Light)
 
 ## For local devlopement:
 
@@ -34,4 +35,4 @@ http://127.0.0.1:8000
 
 ## Generation of the code
 
-sha-256(timestamp + salt)
+c# builtin random with new unknow seed each for iteration

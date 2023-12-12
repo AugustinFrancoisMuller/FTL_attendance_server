@@ -9,49 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FTL_attendance_server
 build_property.RootNamespace = FTL_attendance_server
-build_property.ProjectDir = /home/user/Documents/ie/Y2/database/FTL_attendance_server/
+build_property.ProjectDir = /home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/user/Documents/ie/Y2/database/FTL_attendance_server
+build_property.MSBuildProjectDirectory = /home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/App.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Pages/Form.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Pages/Form.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Pages/Index.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Pages/Settings.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Pages/Settings.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2V0dGluZ3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/_Imports.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Shared/MainLayout.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-94erq39job
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Shared/NavMenu.razor]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1rt2j2h8f0
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Pages/Error.cshtml]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Pages/_Host.cshtml]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/user/Documents/ie/Y2/database/FTL_attendance_server/Pages/_Layout.cshtml]
+[/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

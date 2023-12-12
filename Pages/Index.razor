@@ -25,7 +25,7 @@
 
 
 @code {
-    const int DELAY = 1000;
+    const int DELAY = 10000;
     private Timer timer;
 
     public string QRByte = "";
@@ -54,6 +54,7 @@
         rndString += courseId;
 
         QRByte = GenerateQRCode(rndString);
+
         InsertData(connectionString, timeStamp, otherrnd,courseId, rndString);
 
         // call azure functon to add code to myAQL
@@ -91,14 +92,15 @@
             connection.Open();
 
             string insertDataQuery = "INSERT INTO qr_code (qr_code_id, server_timestamp, session_id, random_code) VALUES (@prime, @timestamp, @session, @code)";
-
+            
+            long parsedUID = long.Parse(UID);
             long parsedTimestamp = long.Parse(timeStamp);
             int parsedSession = int.Parse(session);
 
             
             using (MySqlCommand command = new MySqlCommand(insertDataQuery, connection))
             {
-                command.Parameters.AddWithValue("@prime", UID);
+                command.Parameters.AddWithValue("@prime", parsedTimestamp);
                 command.Parameters.AddWithValue("@timestamp", parsedTimestamp);
                 command.Parameters.AddWithValue("@session", parsedSession);
                 command.Parameters.AddWithValue("@code", code);

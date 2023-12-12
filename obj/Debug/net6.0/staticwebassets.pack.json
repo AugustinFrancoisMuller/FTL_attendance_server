@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/obj/Debug/net6.0/scopedcss/projectbundle/FTL_attendance_server.bundle.scp.css",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/obj/Debug/net6.0/scopedcss/projectbundle/FTL_attendance_server.bundle.scp.css",
       "PackagePath": "staticwebassets/FTL_attendance_server.bundle.scp.css"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/FONT-LICENSE",
       "PackagePath": "staticwebassets/css/open-iconic"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/ICON-LICENSE",
       "PackagePath": "staticwebassets/css/open-iconic"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/README.md",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/README.md",
       "PackagePath": "staticwebassets/css/open-iconic/README.md"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/css/site.css",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/home/user/Documents/ie/Y2/database/FTL_attendance_server/wwwroot/favicon.ico",
+      "Id": "/home/user/Documents/IE/Y2/S1/cloud/FTL_attendance_server/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
